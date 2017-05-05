@@ -1,0 +1,27 @@
+#final-list {
+  display: none;
+}
+
+body {
+  background-color: pink;
+}
+
+.form-group {
+  color: purple;
+  background-color: lightgreen;
+  font-family: cursive;
+  font-style: italic;
+}
+
+#final-list {
+  color: darkred;
+  font-style: italic;
+  font-family: cursive;
+  font-size: 20px;
+}
+
+.jumbotron {
+  color: orange;
+  font-family: cursive;
+  font-style: italic;
+}
